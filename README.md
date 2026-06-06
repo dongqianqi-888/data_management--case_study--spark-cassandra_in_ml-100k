@@ -63,7 +63,14 @@ To reproduce the analysis, please set up the following environment:
 
 ## 📝 Results Summary
 
-All five tasks have been successfully completed, and the results are stored in Cassandra tables:
+All five tasks have been successfully completed, and the results are stored in tables:
+- `output1`
+- `output2`
+- `output3`
+- `output4`
+- `output5`
+
+Visualization include:
 - `top10_movies`
 - `most_popular_base_on_rate`
 - `age_distribution`
