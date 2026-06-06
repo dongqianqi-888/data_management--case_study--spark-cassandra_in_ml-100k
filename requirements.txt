@@ -1,0 +1,4 @@
+Python	3.10
+Apache Spark	3.5.8
+Apache Cassandra	3.11.19
+Libraries	pyspark, cassandra-driver, pandas, matplotlib
