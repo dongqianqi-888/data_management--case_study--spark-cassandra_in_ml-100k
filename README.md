@@ -42,7 +42,7 @@ To reproduce the analysis, please set up the following environment:
     pip install -r requirements.txt
     ```
 
-3.  Start your Cassandra server locally.
+3.  Start your Spark and Cassandra server locally.
 
 4.  Open and run the main notebook:
     ```bash
